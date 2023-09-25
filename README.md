@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juush&label=Profile%20views&color=0e75b6&style=flat" alt="juush" /> </p>
 
-- 🔭 I’m currently working on [AI Companion Bot Web UI](https://pyre.wtf)
+- 🔭 I’m currently working on an [AI Companion Web UI](https://pyre.wtf)
 
-- 🔭 I’m also working on [a Discord Bot that utilizes the front-end of PYRE.wtf](https://discord.gg/fra6Jakc4F)
+- 🔭 I’m also working on an [AI Companion Bot](https://discord.gg/fra6Jakc4F)
 
 - 🌱 I’m currently exploring **AWS Lambda | CSS**
 
